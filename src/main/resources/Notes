@@ -1,0 +1,11 @@
+To get the notes
+
+https://github.com/dilipsundarraj1/java-8
+
+How Stream API Works ?
+
+Intermediate operations - The stream operations that happens between 
+						  the stream method and the collect method 
+						  are called intermediate.
+						  
+Terminal Operations - 
